@@ -24,3 +24,7 @@ console.log(b)
     console.log(b)
 }
 console.log(b)
+
+const author = "shubhanshu"
+
+console.log(author)
